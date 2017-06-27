@@ -1,0 +1,63 @@
+<table>
+  <thead>
+    <tr>
+      <th>Film Title</th>
+      <th>Character</th>
+      <th>Date</th>
+    </tr>
+  </thead>
+
+   <tfoot>
+     <tr>
+      <td>Isle of Dogs</td>
+      <td>Voice</td>
+      <td>2018</td>
+     </tr>
+    </tfoot>
+
+  <tfoot>
+    <tr>
+     <td>Ghostbusters</td>
+     <td>Martin Heiss</td>
+     <td>2016</td>
+    </tr>
+  </tfoot>
+
+  <tfoot>
+   <tr>
+    <td>The Jungle Book</td>
+    <td>Baloo</td>
+    <td>2016</td>
+   </tr>
+
+   <tfoot>
+    <tr>
+     <td>Rock The Kasbah</td>
+     <td>Rickie Lanz</td>
+     <td>2015</td>
+    </tr>
+
+   <tfoot>
+     <tr>
+      <td>Aloha</td>
+      <td>Carson Welch</td>
+      <td>2015</td>
+     </tr>
+
+    <tfoot>
+      <tr>
+       <td>Dumb and Dumber</td>
+       <td>Ice Pick</td>
+       <td>2014</td>
+      </tr>
+
+     <tfoot>
+       <tr>
+        <td>St. Vincent</td>
+        <td>Vincent</td>
+        <td>2014</td>
+       </tr>
+
+
+  </tfoot>
+</table>
